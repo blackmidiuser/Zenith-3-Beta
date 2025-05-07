@@ -4,4 +4,42 @@
 Zenith 3 beta build by khang06.
 
 Welcome to Zenith 3! This is currently an unfinished build and they will not work on it, but
-here is the unfinished build
+here is the unfinished build.
+
+
+
+
+PLUGINS:
+Flat
+MAMPlayer
+MIDITrail++
+PFA
+Textured
+PLUGINS (not included)
+Scripted
+Original
+
+
+
+
+Credits to:
+khang06
+Arduano
+null7272
+Others!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits to khang06. Licensed on GNU Public License 2.0.
